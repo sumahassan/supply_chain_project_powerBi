@@ -58,8 +58,7 @@ You can simulate/prepare data in Excel/CSV with the following fields:
 3. **Product & City Analysis**
    - Service level by Product Category
    - Regional performance (Surat, Ahmedabad, Vadodara)  
-![image alt]([)](https://github.com/sumahassan/supply_chain_project_powerBi/blob/17a6759fa9ed76e2c7e7193878c7fb8ce228c000/Supply%20Chain-Power%20Bi%20Dashboard%20Image.png)
-
+![image alt](https://github.com/sumahassan/supply_chain_project_powerBi/blob/main/Supply%20Chain-Power%20Bi%20Dashboard%20Image.png?raw=true)
 ---
 
 ## 🚀 Getting Started
