@@ -28,19 +28,7 @@ This project address this issue and build a **Power BI dashboard** to track deli
 ## 🗂️ Data Structure
 You can simulate/prepare data in Excel/CSV with the following fields:
 
-**Orders Table**
-| OrderID | Customer   | City       | OrderDate  | DeliveryDate | PromisedDate | Product       | OrderedQty | DeliveredQty |
-|---------|------------|------------|------------|--------------|--------------|---------------|------------|--------------|
-| 101     | Customer A | Surat      | 2024-01-05 | 2024-01-07   | 2024-01-07   | Soap          | 100        | 100          |
-| 102     | Customer B | Ahmedabad  | 2024-01-08 | 2024-01-10   | 2024-01-09   | Shampoo       | 200        | 180          |
-| 103     | Customer C | Vadodara   | 2024-01-09 | 2024-01-09   | 2024-01-09   | Detergent     | 150        | 150          |
 
-**Customer SLA Table**
-| Customer   | Target_OT% | Target_IF% | Target_OTIF% |
-|------------|------------|------------|--------------|
-| Customer A | 95%        | 98%        | 94%          |
-| Customer B | 90%        | 95%        | 90%          |
-| Customer C | 92%        | 97%        | 91%          |
 
 ---
 
