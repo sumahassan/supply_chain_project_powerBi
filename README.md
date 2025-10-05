@@ -40,23 +40,17 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
    - OT %, IF %, OTIF % across all customers
    - Regional performance (Surat, Ahmedabad, Vadodara)
 
-2. **Customer and product Level Analysis**
+2. **Customer and Product Level Analysis**
    - Daily OT, IF, and OTIF % by customer
    - Customer service level actual vs target
    - Service level by Product Category
      
-3. **service level analysis**
+3. **Service Level Analysis**
    - Trend of service levels over time
    
 ![image alt](https://github.com/sumahassan/supply_chain_project_powerBi/blob/main/Supply%20Chain-Power%20Bi%20Dashboard%20Image.png?raw=true)
 ---
 
-## 🚀 Getting Started
-### Prerequisites
-- Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+## Executive Summary
 
-### Steps
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/atliq-mart-supplychain.git
-   cd atliq-mart-supplychain
+- 
