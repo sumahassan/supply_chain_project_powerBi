@@ -38,17 +38,16 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 ## 📊 Dashboard Views
 1. **Overall Performance**
    - OT %, IF %, OTIF % across all customers
-   - SLA comparison (Actual vs Target)
-   - Trend of service levels over time  
+   - Regional performance (Surat, Ahmedabad, Vadodara)
 
-2. **Customer-Level Analysis**
+2. **Customer and product Level Analysis**
    - Daily OT, IF, and OTIF % by customer
-   - Customers not meeting SLA targets
-   - Repeated service issues  
-
-3. **Product & City Analysis**
+   - Customer service level actual vs target
    - Service level by Product Category
-   - Regional performance (Surat, Ahmedabad, Vadodara)  
+     
+3. **service level analysis**
+   - Trend of service levels over time
+   
 ![image alt](https://github.com/sumahassan/supply_chain_project_powerBi/blob/main/Supply%20Chain-Power%20Bi%20Dashboard%20Image.png?raw=true)
 ---
 
