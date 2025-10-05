@@ -28,8 +28,8 @@ This project address this issue and build a **Power BI dashboard** to track deli
 ## 🗂️ Data Structure
 You can simulate/prepare data in Excel/CSV with the following fields:
 
-
-
+![Image alt
+](https://github.com/sumahassan/supply_chain_project_powerBi/blob/c13b892ca4962e5ef3c9da79ba932e62b57f3ed6/Data%20Structure.png)
 ---
 
 ## 📊 Dashboard Views
