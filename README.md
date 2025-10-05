@@ -3,7 +3,7 @@
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India, currently operating in Surat, Ahmedabad, and Vadodara.  
 The company plans to expand into Tier 1 cities but is facing **service-level issues** — some customers have not renewed contracts due to **late deliveries** and **incomplete orders**.  
 
-To address this, we are building a **Power BI dashboard** to track delivery service levels daily and ensure issues are identified and resolved quickly.
+This project address this issue and build a **Power BI dashboard** to track delivery service levels daily and ensure issues are identified and resolved quickly.
 
 ---
 
