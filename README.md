@@ -26,10 +26,13 @@ This project address this issue and build a **Power BI dashboard** to track deli
 ---
 
 ## 🗂️ Data Structure
-Atliq Mart supply chain data consisit of 2 fact tables and 4 dimention table: Customer table, product table, date table, target orders table,order lines table, order aggregate table.
+Atliq Mart supply chain data consist of 2 fact tables and 4 dimention tables: customer table, product table, date table, target orders table,order lines table, order aggregate table.
 
 ![Image alt
 ](https://github.com/sumahassan/supply_chain_project_powerBi/blob/c13b892ca4962e5ef3c9da79ba932e62b57f3ed6/Data%20Structure.png)
+
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarity of dataset. Later data model was created.
+
 ---
 
 ## 📊 Dashboard Views
