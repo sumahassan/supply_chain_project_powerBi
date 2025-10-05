@@ -17,13 +17,15 @@ This project address this issue and build a **Power BI dashboard** to track deli
 ## 📌 Key Metrics
 - **On-time (OT %)** → % of orders delivered within the promised delivery date.  
 - **In-full (IF %)** → % of orders delivered with the complete quantity requested.  
-- **On-time In-full (OTIF %)** → % of orders delivered both on-time and in-full.  
-- **Target Service Level** → Customer-specific service level agreements (SLA).  
+- **On-time In-full (OTIF %)** → % of orders delivered both on-time and in-full.
+- **Line-fill-rate (LIFR %)** → % of Lines of orders shipped out of lines of order placed.
+- **Volume-fill-rate (VOFR %)** → % of total quantity shipped vs total quantity placed per customer.
+- **Target Service Level** → Customer-specific service level agreements split by cities.  
 - **Gap Analysis** → Difference between actual service level and target.
 
 ---
 
-## 🗂️ Dataset (Sample Structure)
+## 🗂️ Data Structure
 You can simulate/prepare data in Excel/CSV with the following fields:
 
 **Orders Table**
@@ -56,6 +58,7 @@ You can simulate/prepare data in Excel/CSV with the following fields:
 3. **Product & City Analysis**
    - Service level by Product Category
    - Regional performance (Surat, Ahmedabad, Vadodara)  
+
 
 ---
 
