@@ -8,7 +8,7 @@ This project address this issue and build a **Power BI dashboard** to track deli
 ---
 
 ## 🎯 Project Objective
-- Track **On-time delivery (OT %)**, **In-full delivery (IF %)**, and **On-time In-full delivery (OTIF %)** at a ** daily level**.  
+- Track **On-time delivery (OT %)**, **In-full delivery (IF %)**, and **On-time In-full delivery (OTIF %)** at a daily level.  
 - Compare actual service levels against **target thresholds** set for each customer.  
 - Identify **customers/products with repeated issues** to improve service quality before expanding to new markets.
 
@@ -26,7 +26,7 @@ This project address this issue and build a **Power BI dashboard** to track deli
 ---
 
 ## 🗂️ Data Structure
-Atliq Mart supply chain data consist of 2 fact tables and 4 dimention tables: customer table, product table, date table, target orders table,order lines table, order aggregate table.
+Atliq Mart supply chain data consist of 2 fact tables and 4 dimention tables: order lines table, order aggregate table, customer table, product table, date table, target orders table.
 
 ![Image alt
 ](https://github.com/sumahassan/supply_chain_project_powerBi/blob/c13b892ca4962e5ef3c9da79ba932e62b57f3ed6/Data%20Structure.png)
@@ -43,7 +43,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 2. **Customer and Product Level Analysis**
    - Daily OT, IF, and OTIF % by customer
    - Customer service level actual vs target
-   - Service level by Product Category
+   - Service level by product category
      
 3. **Service Level Analysis**
    - Trend of service levels over time
@@ -51,7 +51,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 ![image alt](https://github.com/sumahassan/supply_chain_project_powerBi/blob/054ced2bdde52ac8cac46a70e2321459021dce3a/Supply%20Chain%20-%20Power%20Bi%20Dashboard%20Image.png)
 ---
 
-## 🔍Key Insights
+## 🔍 Key Insights
 - The key service metrics — OT%, IF%, and OTIF% — are below target levels.
 - OTIF% performance in all three cities is 30% or lower, which is a major concern.
 - From the product-wise analysis, the Dairy category has the highest order volume but only a 66% line fill rate, possibly due to limited production capacity.
