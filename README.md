@@ -48,7 +48,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 3. **Service Level Analysis**
    - Trend of service levels over time
    
-![image alt](https://github.com/sumahassan/supply_chain_project_powerBi/blob/main/Supply%20Chain-Power%20Bi%20Dashboard%20Image.png?raw=true)
+![image alt](https://github.com/sumahassan/supply_chain_project_powerBi/blob/054ced2bdde52ac8cac46a70e2321459021dce3a/Supply%20Chain%20-%20Power%20Bi%20Dashboard%20Image.png)
 ---
 
 ## Insights After Analysis
