@@ -8,7 +8,7 @@ This project address this issue and build a **Power BI dashboard** to track deli
 ---
 
 ## 🎯 Project Objective
-- Track **On-time delivery (OT %)**, **In-full delivery (IF %)**, and **On-time In-full delivery (OTIF %)** at a **daily level**.  
+- Track **On-time delivery (OT %)**, **In-full delivery (IF %)**, and **On-time In-full delivery (OTIF %)** at a ** daily level**.  
 - Compare actual service levels against **target thresholds** set for each customer.  
 - Identify **customers/products with repeated issues** to improve service quality before expanding to new markets.
 
@@ -51,6 +51,12 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 ![image alt](https://github.com/sumahassan/supply_chain_project_powerBi/blob/main/Supply%20Chain-Power%20Bi%20Dashboard%20Image.png?raw=true)
 ---
 
-## Executive Summary
+## Insights After Analysis
 
-- 
+- Key metrics like OT%, IF% and OTIF% have not achieved targets.
+- OTIF% in all the three cities are only 30% or less than the target which is matter of concern.
+- When we look into the Product wise analysis dairy category are ordered highest but have only 66% of line fill rate this could be because of less production of the product
+- In terms of customer insights Lotus Mart,Acclaimed Stores, Vijay Stores have ordered the highest but also delayed the most in terms of delivery.
+- There is no significant improvement interms of performance trend of any metrics from past few months.
+  
+---
