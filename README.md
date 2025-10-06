@@ -53,10 +53,10 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ## Insights After Analysis
 
-- Key metrics like OT%, IF% and OTIF% have not achieved targets.
-- OTIF% in all the three cities are only 30% or less than the target which is matter of concern.
-- When we look into the Product wise analysis dairy category are ordered highest but have only 66% of line fill rate this could be because of less production of the product
-- In terms of customer insights Lotus Mart,Acclaimed Stores, Vijay Stores have ordered the highest but also delayed the most in terms of delivery.
-- There is no significant improvement interms of performance trend of any metrics from past few months.
+- The key service metrics — OT%, IF%, and OTIF% — are below target levels.
+- OTIF% performance in all three cities is 30% or lower, which is a major concern.
+- From the product-wise analysis, the Dairy category has the highest order volume but only a 66% line fill rate, possibly due to limited production capacity.
+- In customer performance, Lotus Mart, Acclaimed Stores, and Vijay Stores placed the most orders but also had the highest delays in delivery.
+- The overall performance trend shows no significant improvement in any of the key metrics over the past few months.
   
 ---
