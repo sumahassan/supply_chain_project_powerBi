@@ -51,8 +51,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 ![image alt](https://github.com/sumahassan/supply_chain_project_powerBi/blob/054ced2bdde52ac8cac46a70e2321459021dce3a/Supply%20Chain%20-%20Power%20Bi%20Dashboard%20Image.png)
 ---
 
-## Insights After Analysis
-
+## 🔍Key Insights
 - The key service metrics — OT%, IF%, and OTIF% — are below target levels.
 - OTIF% performance in all three cities is 30% or lower, which is a major concern.
 - From the product-wise analysis, the Dairy category has the highest order volume but only a 66% line fill rate, possibly due to limited production capacity.
