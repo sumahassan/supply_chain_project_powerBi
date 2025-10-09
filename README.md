@@ -1,4 +1,4 @@
-# 🚚 AtliQ Mart Supply Chain Analytics (Power BI)
+# 🚚Supply Chain Analytics for  AtliQ Mart (Power BI)
 
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India, currently operating in Surat, Ahmedabad, and Vadodara.  
 The company plans to expand into Tier 1 cities but is facing **service-level issues** — some customers have not renewed contracts due to **late deliveries** and **incomplete orders**.  
