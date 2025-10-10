@@ -16,6 +16,7 @@ AtliQ Mart is a growing **FMCG manufacturer headquartered in Gujarat, India**, c
 The company plans to expand into Tier 1 cities but is facing **service-level issues** — several key customers have not renewed contracts due to **late deliveries** and **incomplete orders**.
 
 This project aims to address these issues by building a **Power BI dashboard** to track delivery service performance **daily** and enable the management team to **identify and resolve service gaps quickly**.
+
 ---
 
 ## 🎯 **Project Objective**
