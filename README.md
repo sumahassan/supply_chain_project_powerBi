@@ -4,24 +4,18 @@
 
 | Tool | Purpose |
 |------|----------|
-| **Power Bi** |Interactive dashboard creation and data visualization|
+| **Power BI** |Interactive dashboard creation and data visualization|
 | **Power Query** | Data transformation |
 | **DAX** | Calculated measures and KPI creation |
 | **CSV Files** | Data storage and import/export |
 
 ---
+## 🩺 **Introduction**
+
 AtliQ Mart is a growing **FMCG manufacturer headquartered in Gujarat, India**, currently operating in **Surat, Ahmedabad, and Vadodara**.  
 The company plans to expand into Tier 1 cities but is facing **service-level issues** — several key customers have not renewed contracts due to **late deliveries** and **incomplete orders**.
 
 This project aims to address these issues by building a **Power BI dashboard** to track delivery service performance **daily** and enable the management team to **identify and resolve service gaps quickly**.
-
----
-
-## 🩺 **Introduction**
-
-AtliQ Mart’s management identified recurring service-level challenges due to inconsistent product delivery.  
-This project builds an interactive Power BI dashboard to **monitor On-Time, In-Full, and OTIF delivery metrics** and perform **gap analysis** against customer-specific targets.
-
 ---
 
 ## 🎯 **Project Objective**
